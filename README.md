@@ -153,9 +153,7 @@ Login → Dashboard Stats → Approve/Reject Workers → Monitor Bookings → Ma
 
 ---
 
-## 📄 License
 
-This project is developed as part of the **KGASC** academic curriculum.
 
 ---
 
